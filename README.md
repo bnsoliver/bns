@@ -1,3 +1,1 @@
-# bns
-
-Meu nome
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&color=F70000&background=FF000000&random=false&width=435&lines=Sejam+bem-vindos;Meu+nome+%C3%A9+Oliver)](https://git.io/typing-svg)
